@@ -4,7 +4,7 @@ Sample.KotlinWebApp
 Documents
 ---
 
-- [https://toranoana.github.io/kotlin-webapp/](https://toranoana.github.io/kotlin-webapp/)
+- [https://karageageta.github.io/kotlin-webapp/](https://karageageta.github.io/kotlin-webapp/)
 
 Getting Started
 ---
@@ -35,5 +35,5 @@ Matching Java Virtual Machines (1):
 ### Clone Repository
 
 ```bash
-$ git clone https://github.com/toranoana/kotlin-webapp.git
+$ git clone https://github.com/karageageta/kotlin-webapp.git
 ```
